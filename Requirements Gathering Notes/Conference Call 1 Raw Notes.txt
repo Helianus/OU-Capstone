@@ -1,0 +1,19 @@
+Xamarin
+
+.NET and client-side
+
+Mainly iOS, some Android, some Blackberry (still runs Android)
+
+C#
+
+Apple store, check guidelines to get app published
+Can convert to webapp instead if gatekeeped
+
+One-way communication app
+
+Make it possible for OMES to change/upgrade later on
+
+Look/feel will be decided later. Features first.
+Less is more.
+
+Agile
